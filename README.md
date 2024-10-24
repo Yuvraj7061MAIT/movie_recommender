@@ -66,12 +66,6 @@ This dataset is preprocessed and used to create a content-based recommendation m
 - **similarity.pkl**: Pre-computed similarity matrix using cosine similarity.
 - **requirements.txt**: List of dependencies for the project.
 
-## 🖼️ Example
-
-Below is a snapshot of the movie recommender system in action:
-
-![Movie Recommender](./screenshots/example.png)
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
