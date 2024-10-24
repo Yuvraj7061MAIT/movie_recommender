@@ -79,9 +79,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/Yuvraj7061MAIT)
-
----
-
-Feel free to adjust the `README` based on your project specifics, such as adding screenshots, updating the `LICENSE`, or modifying contact details.
+- **Email**: yuvraj.singh.mait@gmail.com
+- **GitHub**: [Yuvraj7061MAIT](https://github.com/Yuvraj7061MAIT)
