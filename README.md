@@ -66,10 +66,6 @@ This dataset is preprocessed and used to create a content-based recommendation m
 - **similarity.pkl**: Pre-computed similarity matrix using cosine similarity.
 - **requirements.txt**: List of dependencies for the project.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🌟 Acknowledgements
 
 - The Movie Database (TMDb) for providing the movie posters via their API.
